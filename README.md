@@ -1,2 +1,2 @@
 # Datacamp-Courses
- All course take on datacamp
+ All courses taken on datacamp
